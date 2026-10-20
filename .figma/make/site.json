@@ -1,0 +1,10 @@
+{
+  "description": "Create a customizable reconciliation webpage with a romantic aesthetic featuring heartfelt apologies, personal photo galleries, and soothing audio for an immersive experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
