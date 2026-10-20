@@ -147,3 +147,6 @@
 
 # Vercel must receive the actual gallery images, not Git LFS pointer files.
 fotos/*.jpg          -filter -diff -merge -text
+
+# The authorized site audio must also be included as a regular file for Vercel.
+public/acurrucar.mp3 -filter -diff -merge -text
